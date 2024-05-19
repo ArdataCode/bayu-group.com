@@ -1,0 +1,508 @@
+{
+    "version": "0.4",
+    "title": "Sectron &#8211; Projects Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "99afa4e",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "611233ee",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "3dd589cd",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "34398530",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "119a6fdf",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": "40",
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": "5",
+                                                    "sizes": []
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=accent"
+                                                },
+                                                "align": "center",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4aee42db",
+                                            "settings": {
+                                                "title": "What We have done",
+                                                "header_size": "span",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=7943454"
+                                                },
+                                                "align": "center",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3b46cd3b",
+                                            "settings": {
+                                                "title": "Recent Project List",
+                                                "align": "center",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": "600"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "2b0be133",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "0",
+                                    "bottom": "",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "z_index": "9"
+                            },
+                            "elements": [
+                                {
+                                    "id": "7164aa36",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": "1"
+                                        },
+                                        "border_color": "#E4E4E4",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": "500",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3db4bfbb",
+                                            "settings": {
+                                                "eael_flipbox_type": "animate-fade-in",
+                                                "eael_flipbox_height": {
+                                                    "unit": "px",
+                                                    "size": "450",
+                                                    "sizes": []
+                                                },
+                                                "eael_flipbox_front_content_type": "template",
+                                                "eael_flipbox_front_templates": "3",
+                                                "eael_flipbox_img_or_icon": "none",
+                                                "eael_flipbox_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_front_title": "Front Title",
+                                                "eael_flipbox_img_or_icon_back": "none",
+                                                "eael_flipbox_icon_back_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_back_title": "home Construction",
+                                                "eael_flipbox_back_title_tag": "h4",
+                                                "eael_flipbox_back_text": "Lorem ipsum is are many variations of pass of majority.",
+                                                "flipbox_link_type": "box",
+                                                "flipbox_button_text": "",
+                                                "button_icon_new": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "eael_flipbox_front_bg_color_background": "classic",
+                                                "eael_flipbox_front_bg_color_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/group-of-construction-engineer-working-in-construc-VZK4UJ5.jpg",
+                                                    "id": "386",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "eael_flipbox_front_bg_color_position": "center center",
+                                                "eael_flipbox_front_bg_color_repeat": "no-repeat",
+                                                "eael_flipbox_front_bg_color_size": "cover",
+                                                "eael_flipbox_back_bg_color_background": "classic",
+                                                "eael_flipbox_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "eael_flipbox_back_bg_color_color": "globals\/colors?id=secondary",
+                                                    "eael_flipbox_front_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_front_content_color": "globals\/colors?id=text",
+                                                    "eael_flipbox_back_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_back_content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "291405ed",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": "1"
+                                        },
+                                        "border_color": "#E4E4E4",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "10",
+                                            "isLinked": ""
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": "600",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "65d8433a",
+                                            "settings": {
+                                                "eael_flipbox_type": "animate-fade-in",
+                                                "eael_flipbox_height": {
+                                                    "unit": "px",
+                                                    "size": "450",
+                                                    "sizes": []
+                                                },
+                                                "eael_flipbox_front_content_type": "template",
+                                                "eael_flipbox_front_templates": "3",
+                                                "eael_flipbox_img_or_icon": "none",
+                                                "eael_flipbox_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_front_title": "Front Title",
+                                                "eael_flipbox_img_or_icon_back": "none",
+                                                "eael_flipbox_icon_back_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_back_title": "Bridge Construction",
+                                                "eael_flipbox_back_title_tag": "h4",
+                                                "eael_flipbox_back_text": "Lorem ipsum is are many variations of pass of majority.",
+                                                "flipbox_link_type": "box",
+                                                "flipbox_button_text": "",
+                                                "button_icon_new": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "eael_flipbox_front_bg_color_background": "classic",
+                                                "eael_flipbox_front_bg_color_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/working-meeting-at-construction-site-LDFRXAY.jpg",
+                                                    "id": "393",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "eael_flipbox_front_bg_color_position": "center center",
+                                                "eael_flipbox_front_bg_color_repeat": "no-repeat",
+                                                "eael_flipbox_front_bg_color_size": "cover",
+                                                "eael_flipbox_back_bg_color_background": "classic",
+                                                "eael_flipbox_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "eael_flipbox_back_bg_color_color": "globals\/colors?id=secondary",
+                                                    "eael_flipbox_front_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_front_content_color": "globals\/colors?id=text",
+                                                    "eael_flipbox_back_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_back_content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "34bc2372",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": "1"
+                                        },
+                                        "border_color": "#E4E4E4",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "20",
+                                            "isLinked": ""
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": "700",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "10",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "72802e7e",
+                                            "settings": {
+                                                "eael_flipbox_type": "animate-fade-in",
+                                                "eael_flipbox_height": {
+                                                    "unit": "px",
+                                                    "size": "450",
+                                                    "sizes": []
+                                                },
+                                                "eael_flipbox_front_content_type": "template",
+                                                "eael_flipbox_front_templates": "3",
+                                                "eael_flipbox_img_or_icon": "none",
+                                                "eael_flipbox_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_front_title": "Front Title",
+                                                "eael_flipbox_img_or_icon_back": "none",
+                                                "eael_flipbox_icon_back_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_back_title": "Office Construction",
+                                                "eael_flipbox_back_title_tag": "h4",
+                                                "eael_flipbox_back_text": "Lorem ipsum is are many variations of pass of majority.",
+                                                "flipbox_link_type": "box",
+                                                "flipbox_button_text": "",
+                                                "button_icon_new": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "eael_flipbox_front_bg_color_background": "classic",
+                                                "eael_flipbox_front_bg_color_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/two-workers-at-construction-site-9B2JM3Z.jpg",
+                                                    "id": "395",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "eael_flipbox_front_bg_color_position": "center center",
+                                                "eael_flipbox_front_bg_color_repeat": "no-repeat",
+                                                "eael_flipbox_front_bg_color_size": "cover",
+                                                "eael_flipbox_back_bg_color_background": "classic",
+                                                "eael_flipbox_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "eael_flipbox_back_bg_color_color": "globals\/colors?id=secondary",
+                                                    "eael_flipbox_front_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_front_content_color": "globals\/colors?id=text",
+                                                    "eael_flipbox_back_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_back_content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

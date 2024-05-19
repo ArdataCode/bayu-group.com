@@ -1,0 +1,771 @@
+[17-Jan-2024 06:37:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[18-Jan-2024 06:33:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[22-Jan-2024 13:27:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[23-Jan-2024 23:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[26-Jan-2024 06:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Jan-2024 06:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[29-Jan-2024 23:49:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[31-Jan-2024 06:35:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[01-Feb-2024 23:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[03-Feb-2024 06:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Feb-2024 06:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[07-Feb-2024 06:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[08-Feb-2024 06:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Feb-2024 06:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[13-Feb-2024 23:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[15-Feb-2024 06:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[20-Feb-2024 03:44:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[21-Feb-2024 03:29:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 205
+[21-Feb-2024 03:30:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 443
+[21-Feb-2024 03:30:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 443
+[21-Feb-2024 03:30:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[21-Feb-2024 03:34:28 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[25-Feb-2024 23:43:21 UTC] PHP Notice:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 205
+[27-Feb-2024 00:32:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Feb-2024 00:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Feb-2024 02:08:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 205
+[28-Feb-2024 02:09:03 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 443
+[28-Feb-2024 02:09:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[28-Feb-2024 02:09:25 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[28-Feb-2024 02:09:41 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 443
+[01-Mar-2024 00:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[01-Mar-2024 03:10:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 205
+[01-Mar-2024 03:11:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 443
+[01-Mar-2024 03:11:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[01-Mar-2024 03:11:31 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[02-Mar-2024 00:33:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[05-Mar-2024 00:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Mar-2024 00:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Mar-2024 02:15:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 205
+[06-Mar-2024 02:15:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[06-Mar-2024 02:15:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 443
+[06-Mar-2024 02:16:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/bayu-group.com/wp-includes/update.php on line 724
+[16-Mar-2024 04:48:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[17-Mar-2024 23:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[20-Mar-2024 23:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[22-Mar-2024 04:38:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[22-Mar-2024 04:38:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:38:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:39:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:41:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:53:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[22-Mar-2024 04:58:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[22-Mar-2024 04:59:10 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 122880 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[23-Mar-2024 11:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Mar-2024 11:27:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[26-Mar-2024 03:48:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:49:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:49:27 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:49:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:49:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:49:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:50:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:52:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:52:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:52:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 122880 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 03:56:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 122880 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 04:45:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 06:54:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 122880 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 06:57:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 07:00:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 08:07:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 08:08:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[26-Mar-2024 08:08:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[26-Mar-2024 08:08:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 126976 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 08:09:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 08:09:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[26-Mar-2024 08:09:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[26-Mar-2024 08:09:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 126976 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[26-Mar-2024 23:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Mar-2024 01:07:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 01:07:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 01:16:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:00 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[27-Mar-2024 04:13:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[27-Mar-2024 04:13:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/landingu/bayu-group.com/wp-content/plugins/pdf-print/pdf-print.php on line 636
+[27-Mar-2024 04:16:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 122880 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 04:21:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 04:32:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 04:37:22 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 126976 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 04:39:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[27-Mar-2024 04:39:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 118784 bytes) in /home/landingu/bayu-group.com/wp-includes/class-wpdb.php on line 2320
+[29-Mar-2024 23:48:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[03-Apr-2024 11:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 01:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/landingu/bayu-group.com/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[04-Apr-2024 11:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[10-Apr-2024 23:48:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[16-Apr-2024 23:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[22-Apr-2024 11:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[26-Apr-2024 00:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[28-Apr-2024 23:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/landingu/bayu-group.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[02-May-2024 03:08:17 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/landingu/bayu-group.com/wp-includes/kses.php on line 1745
+[02-May-2024 03:08:42 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/landingu/bayu-group.com/wp-includes/kses.php on line 1745
+[02-May-2024 03:09:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/bayu-group.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/landingu/bayu-group.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/landingu/bayu-group.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/landingu/bayu-group.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/landingu/bayu-group.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/landingu/bayu-group.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[06-May-2024 02:48:51 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/landingu/bayu-group.com/wp-includes/kses.php on line 1745
+[06-May-2024 02:48:55 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/landingu/bayu-group.com/wp-includes/kses.php on line 1745

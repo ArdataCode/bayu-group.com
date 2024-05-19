@@ -1,0 +1,1937 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Sectron - Industrial Business Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Home Page",
+            "screenshot": "screenshots\/sectron-home-page.jpg",
+            "source": "templates\/sectron-home-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-home-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Home Two Page",
+            "screenshot": "screenshots\/sectron-home-two-page.jpg",
+            "source": "templates\/sectron-home-two-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-home-page-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - About page",
+            "screenshot": "screenshots\/sectron-about-page.jpg",
+            "source": "templates\/sectron-about-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Service page",
+            "screenshot": "screenshots\/sectron-service-page.jpg",
+            "source": "templates\/sectron-service-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-services-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Service Details Page",
+            "screenshot": "screenshots\/sectron-service-details-page.jpg",
+            "source": "templates\/sectron-service-details-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-service-details-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Team Page",
+            "screenshot": "screenshots\/sectron-team-page.jpg",
+            "source": "templates\/sectron-team-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-team-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Team Details Page",
+            "screenshot": "screenshots\/sectron-team-details-page.jpg",
+            "source": "templates\/sectron-team-details-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-team-details-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Projects Page",
+            "screenshot": "screenshots\/sectron-projects-page.jpg",
+            "source": "templates\/sectron-projects-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-projects-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Project Details Page",
+            "screenshot": "screenshots\/sectron-project-details-page.jpg",
+            "source": "templates\/sectron-project-details-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-project-details-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Post Template",
+            "screenshot": "screenshots\/sectron-post-template.jpg",
+            "source": "templates\/sectron-post-template.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/?elementor_library=sectron-post",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Sectron - Single Post",
+            "screenshot": "screenshots\/sectron-single-post.jpg",
+            "source": "templates\/sectron-single-post.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/?elementor_library=sectron-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: All Singular."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Sectron - FAQ Page",
+            "screenshot": "screenshots\/sectron-faq-page.jpg",
+            "source": "templates\/sectron-faq-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-faq-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Gallery Page",
+            "screenshot": "screenshots\/sectron-gallery-page.jpg",
+            "source": "templates\/sectron-gallery-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-gallery-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Appointment Page",
+            "screenshot": "screenshots\/sectron-appointment-page.jpg",
+            "source": "templates\/sectron-appointment-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-appointment-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Contact Page",
+            "screenshot": "screenshots\/sectron-contact-page.jpg",
+            "source": "templates\/sectron-contact-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - 404 Page",
+            "screenshot": "screenshots\/sectron-404-page.jpg",
+            "source": "templates\/sectron-404-page.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Header",
+            "screenshot": "screenshots\/sectron-header.jpg",
+            "source": "templates\/sectron-header.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/?elementor_library=sectron-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Sectron - About Section",
+            "screenshot": "screenshots\/sectron-about-section.jpg",
+            "source": "templates\/sectron-about-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-about-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Blog Section",
+            "screenshot": "screenshots\/sectron-blog-section.jpg",
+            "source": "templates\/sectron-blog-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-blog-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Faq Section",
+            "screenshot": "screenshots\/sectron-faq-section.jpg",
+            "source": "templates\/sectron-faq-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-faq-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Team Section",
+            "screenshot": "screenshots\/sectron-team-section.jpg",
+            "source": "templates\/sectron-team-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-team-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Client Logo",
+            "screenshot": "screenshots\/sectron-client-logo.jpg",
+            "source": "templates\/sectron-client-logo.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-client-logo\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron  - Service Section",
+            "screenshot": "screenshots\/sectron-service-section.jpg",
+            "source": "templates\/sectron-service-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-service-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Testimonials Section",
+            "screenshot": "screenshots\/sectron-testimonials-section.jpg",
+            "source": "templates\/sectron-testimonials-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-testimonials-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - FunFact Section",
+            "screenshot": "screenshots\/sectron-funfact-section.jpg",
+            "source": "templates\/sectron-funfact-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-funfact-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Projects Section",
+            "screenshot": "screenshots\/sectron-projects-section.jpg",
+            "source": "templates\/sectron-projects-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-projects-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Video Section",
+            "screenshot": "screenshots\/sectron-video-section.jpg",
+            "source": "templates\/sectron-video-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-video-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Call to Action",
+            "screenshot": "screenshots\/sectron-call-to-action.jpg",
+            "source": "templates\/sectron-call-to-action.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-call-to-action\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Features Section",
+            "screenshot": "screenshots\/sectron-features-section.jpg",
+            "source": "templates\/sectron-features-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-features-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Hero Two Section",
+            "screenshot": "screenshots\/sectron-hero-two-section.jpg",
+            "source": "templates\/sectron-hero-two-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-hero-two-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - NewsLetter Section",
+            "screenshot": "screenshots\/sectron-newsletter-section.jpg",
+            "source": "templates\/sectron-newsletter-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-newsletter-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Hero One Section",
+            "screenshot": "screenshots\/sectron-hero-one-section.jpg",
+            "source": "templates\/sectron-hero-one-section.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/template-kit\/sectron-hero-one-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sectron - Footer",
+            "screenshot": "screenshots\/sectron-footer.jpg",
+            "source": "templates\/sectron-footer.json",
+            "preview_url": "https:\/\/tkpro-demos.envalab.com\/03\/?elementor_library=sectron-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.9.1",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.8",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "construction-cranes-and-concrete-structure-at-suns-PBLEVC8.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-cranes-and-concrete-structure-at-suns-PBLEVC8-800x504.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-hero-one-section.json",
+                    "name": "Sectron - Hero One Section"
+                }
+            ],
+            "filesize": 239778,
+            "dimensions": [
+                1600,
+                1008
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBLEVC8"
+        },
+        {
+            "filename": "engineer-builder-at-construction-site-PK5KQLB.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/engineer-builder-at-construction-site-PK5KQLB-800x1339.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-hero-one-section.json",
+                    "name": "Sectron - Hero One Section"
+                }
+            ],
+            "filesize": 401112,
+            "dimensions": [
+                918,
+                1537
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK5KQLB"
+        },
+        {
+            "filename": "feature1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/feature1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-features-section.json",
+                    "name": "Sectron - Features Section"
+                }
+            ],
+            "filesize": 8724,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "feature2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/feature2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-features-section.json",
+                    "name": "Sectron - Features Section"
+                }
+            ],
+            "filesize": 4951,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "feature3.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/feature3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-features-section.json",
+                    "name": "Sectron - Features Section"
+                }
+            ],
+            "filesize": 8423,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "site-engineer-on-a-construction-site-TRMHWK9.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/site-engineer-on-a-construction-site-TRMHWK9-800x507.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-about-section.json",
+                    "name": "Sectron - About Section"
+                }
+            ],
+            "filesize": 224901,
+            "dimensions": [
+                1181,
+                748
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TRMHWK9"
+        },
+        {
+            "filename": "about-small-img.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/about-small-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-about-section.json",
+                    "name": "Sectron - About Section"
+                }
+            ],
+            "filesize": 7365,
+            "dimensions": [
+                253,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-img.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/about-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-about-section.json",
+                    "name": "Sectron - About Section"
+                }
+            ],
+            "filesize": 8269,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "construction-team-work-8GJ3NZT.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-team-work-8GJ3NZT-800x537.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-details-page.json",
+                    "name": "Sectron - Service Details Page"
+                },
+                {
+                    "source": "templates\/sectron-service-section.json",
+                    "name": "Sectron  - Service Section"
+                }
+            ],
+            "filesize": 259331,
+            "dimensions": [
+                1344,
+                902
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8GJ3NZT"
+        },
+        {
+            "filename": "serv1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/serv1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-section.json",
+                    "name": "Sectron  - Service Section"
+                }
+            ],
+            "filesize": 7459,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "people-working-at-construction-RCYNL7S.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/people-working-at-construction-RCYNL7S-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-details-page.json",
+                    "name": "Sectron - Service Details Page"
+                },
+                {
+                    "source": "templates\/sectron-team-page.json",
+                    "name": "Sectron - Team Page"
+                },
+                {
+                    "source": "templates\/sectron-faq-page.json",
+                    "name": "Sectron - FAQ Page"
+                },
+                {
+                    "source": "templates\/sectron-faq-section.json",
+                    "name": "Sectron - Faq Section"
+                },
+                {
+                    "source": "templates\/sectron-service-section.json",
+                    "name": "Sectron  - Service Section"
+                }
+            ],
+            "filesize": 257135,
+            "dimensions": [
+                969,
+                646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RCYNL7S"
+        },
+        {
+            "filename": "serv2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/serv2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-section.json",
+                    "name": "Sectron  - Service Section"
+                }
+            ],
+            "filesize": 8150,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-building-contractor-PNFGG6Q.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/home-building-contractor-PNFGG6Q-800x501.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-details-page.json",
+                    "name": "Sectron - Service Details Page"
+                },
+                {
+                    "source": "templates\/sectron-service-section.json",
+                    "name": "Sectron  - Service Section"
+                }
+            ],
+            "filesize": 221994,
+            "dimensions": [
+                1000,
+                626
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PNFGG6Q"
+        },
+        {
+            "filename": "serv3.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/serv3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-section.json",
+                    "name": "Sectron  - Service Section"
+                }
+            ],
+            "filesize": 9125,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "wood-construction-tool-PSUF64U.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/wood-construction-tool-PSUF64U-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-faq-page.json",
+                    "name": "Sectron - FAQ Page"
+                },
+                {
+                    "source": "templates\/sectron-video-section.json",
+                    "name": "Sectron - Video Section"
+                },
+                {
+                    "source": "templates\/sectron-hero-two-section.json",
+                    "name": "Sectron - Hero Two Section"
+                }
+            ],
+            "filesize": 258364,
+            "dimensions": [
+                1250,
+                834
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PSUF64U"
+        },
+        {
+            "filename": "group-of-construction-engineer-working-in-construc-VZK4UJ5.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/group-of-construction-engineer-working-in-construc-VZK4UJ5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-service-details-page.json",
+                    "name": "Sectron - Service Details Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-project-details-page.json",
+                    "name": "Sectron - Project Details Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-section.json",
+                    "name": "Sectron - Projects Section"
+                }
+            ],
+            "filesize": 264596,
+            "dimensions": [
+                1095,
+                730
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VZK4UJ5"
+        },
+        {
+            "filename": "working-meeting-at-construction-site-LDFRXAY.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/working-meeting-at-construction-site-LDFRXAY-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-project-details-page.json",
+                    "name": "Sectron - Project Details Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-section.json",
+                    "name": "Sectron - Projects Section"
+                }
+            ],
+            "filesize": 226811,
+            "dimensions": [
+                920,
+                614
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LDFRXAY"
+        },
+        {
+            "filename": "two-workers-at-construction-site-9B2JM3Z.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/two-workers-at-construction-site-9B2JM3Z-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-service-page.json",
+                    "name": "Sectron - Service page"
+                },
+                {
+                    "source": "templates\/sectron-service-details-page.json",
+                    "name": "Sectron - Service Details Page"
+                },
+                {
+                    "source": "templates\/sectron-team-page.json",
+                    "name": "Sectron - Team Page"
+                },
+                {
+                    "source": "templates\/sectron-team-details-page.json",
+                    "name": "Sectron - Team Details Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-project-details-page.json",
+                    "name": "Sectron - Project Details Page"
+                },
+                {
+                    "source": "templates\/sectron-post-template.json",
+                    "name": "Sectron - Post Template"
+                },
+                {
+                    "source": "templates\/sectron-single-post.json",
+                    "name": "Sectron - Single Post"
+                },
+                {
+                    "source": "templates\/sectron-faq-page.json",
+                    "name": "Sectron - FAQ Page"
+                },
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                },
+                {
+                    "source": "templates\/sectron-appointment-page.json",
+                    "name": "Sectron - Appointment Page"
+                },
+                {
+                    "source": "templates\/sectron-contact-page.json",
+                    "name": "Sectron - Contact Page"
+                },
+                {
+                    "source": "templates\/sectron-404-page.json",
+                    "name": "Sectron - 404 Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-section.json",
+                    "name": "Sectron - Projects Section"
+                }
+            ],
+            "filesize": 251348,
+            "dimensions": [
+                1076,
+                717
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9B2JM3Z"
+        },
+        {
+            "filename": "counter1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-funfact-section.json",
+                    "name": "Sectron - FunFact Section"
+                }
+            ],
+            "filesize": 5362,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "counter2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-funfact-section.json",
+                    "name": "Sectron - FunFact Section"
+                }
+            ],
+            "filesize": 5651,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "counter3.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-funfact-section.json",
+                    "name": "Sectron - FunFact Section"
+                }
+            ],
+            "filesize": 5572,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "counter4.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-funfact-section.json",
+                    "name": "Sectron - FunFact Section"
+                }
+            ],
+            "filesize": 5158,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "drawings-for-building-house-working-drawings-5A8VZXP.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/drawings-for-building-house-working-drawings-5A8VZXP-800x484.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-testimonials-section.json",
+                    "name": "Sectron - Testimonials Section"
+                }
+            ],
+            "filesize": 259784,
+            "dimensions": [
+                1176,
+                711
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5A8VZXP"
+        },
+        {
+            "filename": "architect-and-structural-engineer-dressed-in-orang-STE4HQX.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/architect-and-structural-engineer-dressed-in-orang-STE4HQX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-testimonials-section.json",
+                    "name": "Sectron - Testimonials Section"
+                }
+            ],
+            "filesize": 17717,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-STE4HQX"
+        },
+        {
+            "filename": "engineer-builder-at-construction-site-PK5KQLB.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/engineer-builder-at-construction-site-PK5KQLB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-testimonials-section.json",
+                    "name": "Sectron - Testimonials Section"
+                }
+            ],
+            "filesize": 16246,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PK5KQLB"
+        },
+        {
+            "filename": "professional-happy-asian-female-architect-construc-NYBYTFD.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/professional-happy-asian-female-architect-construc-NYBYTFD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-projects-page.json",
+                    "name": "Sectron - Projects Page"
+                },
+                {
+                    "source": "templates\/sectron-testimonials-section.json",
+                    "name": "Sectron - Testimonials Section"
+                }
+            ],
+            "filesize": 10900,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NYBYTFD"
+        },
+        {
+            "filename": "news.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/news.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-newsletter-section.json",
+                    "name": "Sectron - NewsLetter Section"
+                }
+            ],
+            "filesize": 7844,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoipsum-logo-38.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-38.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-client-logo.json",
+                    "name": "Sectron - Client Logo"
+                }
+            ],
+            "filesize": 1526,
+            "dimensions": [
+                78,
+                32
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-37.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-37.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-client-logo.json",
+                    "name": "Sectron - Client Logo"
+                }
+            ],
+            "filesize": 1197,
+            "dimensions": [
+                42,
+                38
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-31.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-31.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-client-logo.json",
+                    "name": "Sectron - Client Logo"
+                }
+            ],
+            "filesize": 2445,
+            "dimensions": [
+                104,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-23.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-23.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-client-logo.json",
+                    "name": "Sectron - Client Logo"
+                }
+            ],
+            "filesize": 3205,
+            "dimensions": [
+                130,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-22.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-22.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-client-logo.json",
+                    "name": "Sectron - Client Logo"
+                }
+            ],
+            "filesize": 3371,
+            "dimensions": [
+                103,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-4.png",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-page.json",
+                    "name": "Sectron - Home Page"
+                },
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                },
+                {
+                    "source": "templates\/sectron-client-logo.json",
+                    "name": "Sectron - Client Logo"
+                }
+            ],
+            "filesize": 1515,
+            "dimensions": [
+                100,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "counter-v2-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter-v2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                }
+            ],
+            "filesize": 8746,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "counter-v2-2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter-v2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                }
+            ],
+            "filesize": 9318,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "counter-v2-3.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter-v2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                }
+            ],
+            "filesize": 9323,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "counter-v2-4.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/counter-v2-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-about-page.json",
+                    "name": "Sectron - About page"
+                }
+            ],
+            "filesize": 8423,
+            "dimensions": [
+                101,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "senior-engineer-on-a-construction-site-P4RBL83.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/senior-engineer-on-a-construction-site-P4RBL83.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-team-page.json",
+                    "name": "Sectron - Team Page"
+                },
+                {
+                    "source": "templates\/sectron-team-details-page.json",
+                    "name": "Sectron - Team Details Page"
+                },
+                {
+                    "source": "templates\/sectron-team-section.json",
+                    "name": "Sectron - Team Section"
+                }
+            ],
+            "filesize": 67842,
+            "dimensions": [
+                270,
+                290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P4RBL83"
+        },
+        {
+            "filename": "professional-happy-asian-female-architect-construc-NYBYTFD-1.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/professional-happy-asian-female-architect-construc-NYBYTFD-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-team-page.json",
+                    "name": "Sectron - Team Page"
+                },
+                {
+                    "source": "templates\/sectron-team-section.json",
+                    "name": "Sectron - Team Section"
+                }
+            ],
+            "filesize": 49946,
+            "dimensions": [
+                270,
+                290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NYBYTFD"
+        },
+        {
+            "filename": "group-of-construction-engineer-working-in-construc-E87CYHS.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/group-of-construction-engineer-working-in-construc-E87CYHS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-team-page.json",
+                    "name": "Sectron - Team Page"
+                },
+                {
+                    "source": "templates\/sectron-team-section.json",
+                    "name": "Sectron - Team Section"
+                }
+            ],
+            "filesize": 75254,
+            "dimensions": [
+                270,
+                290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E87CYHS"
+        },
+        {
+            "filename": "happy-engineer-at-construction-site-NE3V9DT.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/happy-engineer-at-construction-site-NE3V9DT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-home-two-page.json",
+                    "name": "Sectron - Home Two Page"
+                },
+                {
+                    "source": "templates\/sectron-team-page.json",
+                    "name": "Sectron - Team Page"
+                },
+                {
+                    "source": "templates\/sectron-team-section.json",
+                    "name": "Sectron - Team Section"
+                }
+            ],
+            "filesize": 93602,
+            "dimensions": [
+                270,
+                290
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NE3V9DT"
+        },
+        {
+            "filename": "architect-or-engineer-with-blueprints-meeting-with-TZBYDDE.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/architect-or-engineer-with-blueprints-meeting-with-TZBYDDE-800x554.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 258200,
+            "dimensions": [
+                977,
+                677
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TZBYDDE"
+        },
+        {
+            "filename": "checking-construction-plan-7ULSUQP.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/checking-construction-plan-7ULSUQP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 232549,
+            "dimensions": [
+                800,
+                535
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7ULSUQP"
+        },
+        {
+            "filename": "construction-business-concept-D7A5LMK.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-business-concept-D7A5LMK-800x507.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 267697,
+            "dimensions": [
+                963,
+                610
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-D7A5LMK"
+        },
+        {
+            "filename": "construction-engineers-discussion-with-architects-523CF6Q.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-engineers-discussion-with-architects-523CF6Q-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 262764,
+            "dimensions": [
+                1007,
+                672
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-523CF6Q"
+        },
+        {
+            "filename": "construction-foreman-giving-instructions-to-worker-JWMNVRD.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-foreman-giving-instructions-to-worker-JWMNVRD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 252318,
+            "dimensions": [
+                1206,
+                803
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JWMNVRD"
+        },
+        {
+            "filename": "construction-site-communication-7RZYKLV.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-site-communication-7RZYKLV-800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 235979,
+            "dimensions": [
+                1350,
+                904
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7RZYKLV"
+        },
+        {
+            "filename": "crane-and-construction-site-4FHJRBN.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/crane-and-construction-site-4FHJRBN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                },
+                {
+                    "source": "templates\/sectron-appointment-page.json",
+                    "name": "Sectron - Appointment Page"
+                },
+                {
+                    "source": "templates\/sectron-contact-page.json",
+                    "name": "Sectron - Contact Page"
+                }
+            ],
+            "filesize": 213727,
+            "dimensions": [
+                864,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4FHJRBN"
+        },
+        {
+            "filename": "group-of-construction-engineer-working-in-construc-9C3JHEQ.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/group-of-construction-engineer-working-in-construc-9C3JHEQ-800x494.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 269097,
+            "dimensions": [
+                1148,
+                709
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9C3JHEQ"
+        },
+        {
+            "filename": "construction-contractor-job-6LPQ4F2.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-contractor-job-6LPQ4F2-800x535.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-gallery-page.json",
+                    "name": "Sectron - Gallery Page"
+                }
+            ],
+            "filesize": 248756,
+            "dimensions": [
+                880,
+                588
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6LPQ4F2"
+        },
+        {
+            "filename": "construction-cranes-in-dubai-DNB8HYU.jpg",
+            "thumbnail_url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/construction-cranes-in-dubai-DNB8HYU-800x515.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sectron-footer.json",
+                    "name": "Sectron - Footer"
+                }
+            ],
+            "filesize": 227963,
+            "dimensions": [
+                1178,
+                759
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DNB8HYU"
+        }
+    ]
+}

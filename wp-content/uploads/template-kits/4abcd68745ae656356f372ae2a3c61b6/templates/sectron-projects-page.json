@@ -1,0 +1,989 @@
+{
+    "version": "0.4",
+    "title": "Sectron &#8211; Projects Page",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "23c5bf8c",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/two-workers-at-construction-site-9B2JM3Z.jpg",
+                    "id": "395",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.9",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                },
+                "_title": "Page Banner"
+            },
+            "elements": [
+                {
+                    "id": "1f385a28",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "357d539d",
+                            "settings": {
+                                "title": "projects",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "__globals__": {
+                                    "title_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "38176df",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "HOME",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "6a1e0cf",
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "text": "\/",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "3eb81a3"
+                                    },
+                                    {
+                                        "text": "PROJECTS",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "44bf5c2"
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": "10",
+                                    "sizes": []
+                                },
+                                "icon_align": "center",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": "21",
+                                    "sizes": []
+                                },
+                                "text_indent": {
+                                    "unit": "px",
+                                    "size": "0",
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=secondary",
+                                    "text_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "26749670",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d2736e6",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "5ceeabca",
+                            "settings": {
+                                "gap": "no",
+                                "structure": "30",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "0",
+                                    "bottom": "",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "z_index": "9"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4eed5dc5",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": "1"
+                                        },
+                                        "border_color": "#E4E4E4",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "20",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": "500",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7d06875",
+                                            "settings": {
+                                                "eael_flipbox_type": "animate-fade-in",
+                                                "eael_flipbox_height": {
+                                                    "unit": "px",
+                                                    "size": "450",
+                                                    "sizes": []
+                                                },
+                                                "eael_flipbox_front_content_type": "template",
+                                                "eael_flipbox_front_templates": "3",
+                                                "eael_flipbox_img_or_icon": "none",
+                                                "eael_flipbox_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_front_title": "Front Title",
+                                                "eael_flipbox_img_or_icon_back": "none",
+                                                "eael_flipbox_icon_back_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_back_title": "home Construction",
+                                                "eael_flipbox_back_title_tag": "h4",
+                                                "eael_flipbox_back_text": "Lorem ipsum is are many variations of pass of majority.",
+                                                "flipbox_link_type": "box",
+                                                "flipbox_button_text": "",
+                                                "button_icon_new": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "eael_flipbox_front_bg_color_background": "classic",
+                                                "eael_flipbox_front_bg_color_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/group-of-construction-engineer-working-in-construc-VZK4UJ5.jpg",
+                                                    "id": "386",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "eael_flipbox_front_bg_color_position": "center center",
+                                                "eael_flipbox_front_bg_color_repeat": "no-repeat",
+                                                "eael_flipbox_front_bg_color_size": "cover",
+                                                "eael_flipbox_back_bg_color_background": "classic",
+                                                "eael_flipbox_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "eael_flipbox_back_bg_color_color": "globals\/colors?id=secondary",
+                                                    "eael_flipbox_front_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_front_content_color": "globals\/colors?id=text",
+                                                    "eael_flipbox_back_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_back_content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "17c41065",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": "1"
+                                        },
+                                        "border_color": "#E4E4E4",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "10",
+                                            "bottom": "0",
+                                            "left": "10",
+                                            "isLinked": ""
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": "600",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "5",
+                                            "bottom": "0",
+                                            "left": "5",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1b7ad639",
+                                            "settings": {
+                                                "eael_flipbox_type": "animate-fade-in",
+                                                "eael_flipbox_height": {
+                                                    "unit": "px",
+                                                    "size": "450",
+                                                    "sizes": []
+                                                },
+                                                "eael_flipbox_front_content_type": "template",
+                                                "eael_flipbox_front_templates": "3",
+                                                "eael_flipbox_img_or_icon": "none",
+                                                "eael_flipbox_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_front_title": "Front Title",
+                                                "eael_flipbox_img_or_icon_back": "none",
+                                                "eael_flipbox_icon_back_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_back_title": "Bridge Construction",
+                                                "eael_flipbox_back_title_tag": "h4",
+                                                "eael_flipbox_back_text": "Lorem ipsum is are many variations of pass of majority.",
+                                                "flipbox_link_type": "box",
+                                                "flipbox_button_text": "",
+                                                "button_icon_new": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "eael_flipbox_front_bg_color_background": "classic",
+                                                "eael_flipbox_front_bg_color_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/working-meeting-at-construction-site-LDFRXAY.jpg",
+                                                    "id": "393",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "eael_flipbox_front_bg_color_position": "center center",
+                                                "eael_flipbox_front_bg_color_repeat": "no-repeat",
+                                                "eael_flipbox_front_bg_color_size": "cover",
+                                                "eael_flipbox_back_bg_color_background": "classic",
+                                                "eael_flipbox_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "eael_flipbox_back_bg_color_color": "globals\/colors?id=secondary",
+                                                    "eael_flipbox_front_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_front_content_color": "globals\/colors?id=text",
+                                                    "eael_flipbox_back_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_back_content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "430c15db",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "border_border": "solid",
+                                        "border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": "1"
+                                        },
+                                        "border_color": "#E4E4E4",
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "20",
+                                            "isLinked": ""
+                                        },
+                                        "animation": "fadeInUp",
+                                        "animation_delay": "700",
+                                        "margin_tablet": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "10",
+                                            "isLinked": ""
+                                        },
+                                        "margin_mobile": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": ""
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6e8d619",
+                                            "settings": {
+                                                "eael_flipbox_type": "animate-fade-in",
+                                                "eael_flipbox_height": {
+                                                    "unit": "px",
+                                                    "size": "450",
+                                                    "sizes": []
+                                                },
+                                                "eael_flipbox_front_content_type": "template",
+                                                "eael_flipbox_front_templates": "3",
+                                                "eael_flipbox_img_or_icon": "none",
+                                                "eael_flipbox_icon_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_front_title": "Front Title",
+                                                "eael_flipbox_img_or_icon_back": "none",
+                                                "eael_flipbox_icon_back_new": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "eael_flipbox_back_title": "Office Construction",
+                                                "eael_flipbox_back_title_tag": "h4",
+                                                "eael_flipbox_back_text": "Lorem ipsum is are many variations of pass of majority.",
+                                                "flipbox_link_type": "box",
+                                                "flipbox_button_text": "",
+                                                "button_icon_new": {
+                                                    "value": "icon icon-plus",
+                                                    "library": "ekiticons"
+                                                },
+                                                "eael_flipbox_front_bg_color_background": "classic",
+                                                "eael_flipbox_front_bg_color_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/two-workers-at-construction-site-9B2JM3Z.jpg",
+                                                    "id": "395",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "eael_flipbox_front_bg_color_position": "center center",
+                                                "eael_flipbox_front_bg_color_repeat": "no-repeat",
+                                                "eael_flipbox_front_bg_color_size": "cover",
+                                                "eael_flipbox_back_bg_color_background": "classic",
+                                                "eael_flipbox_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": "1"
+                                                },
+                                                "__globals__": {
+                                                    "eael_flipbox_back_bg_color_color": "globals\/colors?id=secondary",
+                                                    "eael_flipbox_front_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_front_content_color": "globals\/colors?id=text",
+                                                    "eael_flipbox_back_title_color": "globals\/colors?id=primary",
+                                                    "eael_flipbox_back_content_color": "globals\/colors?id=text"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "4d2cd1ae",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/drawings-for-building-house-working-drawings-5A8VZXP.jpg",
+                    "id": "436",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_motion_fx_motion_fx_scrolling": "yes",
+                "background_motion_fx_translateY_effect": "yes",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.95",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                },
+                "motion_fx_translateY_effect": "yes",
+                "background_attachment": "fixed",
+                "motion_fx_translateY_speed": {
+                    "unit": "px",
+                    "size": "0",
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "61a4119f",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "d0d19eb",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "64720eb7",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6bf2e88d",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": "40",
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": "5",
+                                                    "sizes": []
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=accent"
+                                                },
+                                                "align": "center",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "17ac3466",
+                                            "settings": {
+                                                "title": "Client Testimonials",
+                                                "header_size": "span",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "title_color": ""
+                                                },
+                                                "align": "center",
+                                                "_animation": "fadeInUp",
+                                                "title_color": "#FBFBFB"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5c8de801",
+                                            "settings": {
+                                                "title": "What They\u2019re saying",
+                                                "align": "center",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": "600",
+                                                "title_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1bfc53b2",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "0",
+                                    "bottom": "",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "328cb929",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "16e1ac05",
+                                            "settings": {
+                                                "slides": [
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Mike Hardson",
+                                                        "title": "Co Founder",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/architect-and-structural-engineer-dressed-in-orang-STE4HQX.jpg",
+                                                            "id": "555",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "06b1dfe"
+                                                    },
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Kevin Martin",
+                                                        "title": "Manager",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/engineer-builder-at-construction-site-PK5KQLB.jpg",
+                                                            "id": "557",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "522f169"
+                                                    },
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Sarah Albert",
+                                                        "title": "CEO",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/professional-happy-asian-female-architect-construc-NYBYTFD.jpg",
+                                                            "id": "556",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "1f509c1"
+                                                    },
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Mike Hardson",
+                                                        "title": "Co Founder",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/architect-and-structural-engineer-dressed-in-orang-STE4HQX.jpg",
+                                                            "id": "555",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "046b234"
+                                                    }
+                                                ],
+                                                "layout": "image_above",
+                                                "slides_per_view": "3",
+                                                "slides_to_scroll": "1",
+                                                "show_arrows": "",
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": "30",
+                                                    "sizes": []
+                                                },
+                                                "slide_border_size": {
+                                                    "unit": "px",
+                                                    "top": "4",
+                                                    "right": "4",
+                                                    "bottom": "4",
+                                                    "left": "4",
+                                                    "isLinked": "1"
+                                                },
+                                                "slide_padding": {
+                                                    "unit": "px",
+                                                    "top": "30",
+                                                    "right": "30",
+                                                    "bottom": "30",
+                                                    "left": "30",
+                                                    "isLinked": "1"
+                                                },
+                                                "content_gap": {
+                                                    "unit": "px",
+                                                    "size": "15",
+                                                    "sizes": []
+                                                },
+                                                "content_color": "#FFFFFF",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": "20",
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "300",
+                                                "content_typography_font_style": "normal",
+                                                "name_typography_font_weight": "400",
+                                                "name_typography_text_transform": "uppercase",
+                                                "name_typography_font_style": "normal",
+                                                "name_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#F6F6F6",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": "14",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "300",
+                                                "title_typography_text_transform": "uppercase",
+                                                "title_typography_font_style": "normal",
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "px",
+                                                    "size": "85",
+                                                    "sizes": []
+                                                },
+                                                "image_border": "yes",
+                                                "image_border_width": {
+                                                    "unit": "px",
+                                                    "size": "4",
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "pagination_size": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "slide_background_color": "globals\/colors?id=primary",
+                                                    "slide_border_color": "globals\/colors?id=secondary",
+                                                    "name_color": "globals\/colors?id=secondary",
+                                                    "image_border_color": "globals\/colors?id=secondary",
+                                                    "pagination_color": "globals\/colors?id=accent"
+                                                },
+                                                "slides_per_view_tablet": "2",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "testimonial-carousel",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "b775fd2",
+            "settings": {
+                "gap": "no",
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=secondary"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "2c9220c",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "65",
+                        "content_position": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": "600"
+                    },
+                    "elements": [
+                        {
+                            "id": "131a5910",
+                            "settings": {
+                                "title": "Quality, Affordable, Manufacturing\nand industrial Services",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "10f585a3",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "34.906",
+                        "content_position": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": "750"
+                    },
+                    "elements": [
+                        {
+                            "id": "4cd6d44c",
+                            "settings": {
+                                "text": "Discover More",
+                                "align": "right",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=primary",
+                                    "button_text_color": "globals\/colors?id=secondary"
+                                },
+                                "align_mobile": "justify",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

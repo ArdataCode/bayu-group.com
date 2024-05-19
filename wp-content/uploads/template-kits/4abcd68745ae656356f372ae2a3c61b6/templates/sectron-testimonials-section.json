@@ -1,0 +1,370 @@
+{
+    "version": "0.4",
+    "title": "Sectron &#8211; Testimonials Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "2cdc7d9f",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/drawings-for-building-house-working-drawings-5A8VZXP.jpg",
+                    "id": "436",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_motion_fx_motion_fx_scrolling": "yes",
+                "background_motion_fx_translateY_effect": "yes",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.95",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                },
+                "motion_fx_translateY_effect": "yes",
+                "background_attachment": "fixed",
+                "motion_fx_translateY_speed": {
+                    "unit": "px",
+                    "size": "0",
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "60a7796f",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "1b5e76f8",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "50",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "26a20a9",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3d8d647",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": "40",
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "weight": {
+                                                    "unit": "px",
+                                                    "size": "5",
+                                                    "sizes": []
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=accent"
+                                                },
+                                                "align": "center",
+                                                "_animation": "fadeInUp"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "54c1d721",
+                                            "settings": {
+                                                "title": "client testimonails",
+                                                "header_size": "span",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "20",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "__globals__": {
+                                                    "title_color": ""
+                                                },
+                                                "align": "center",
+                                                "_animation": "fadeInUp",
+                                                "title_color": "#FBFBFB"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5128705c",
+                                            "settings": {
+                                                "title": "What They\u2019re saying",
+                                                "align": "center",
+                                                "_animation": "fadeInUp",
+                                                "_animation_delay": "600",
+                                                "title_color": "#FFFFFF"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "ce143e",
+                            "settings": {
+                                "gap": "no",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "0",
+                                    "bottom": "",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7f9efe34",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "724f63f1",
+                                            "settings": {
+                                                "slides": [
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Mike Hardson",
+                                                        "title": "Co Founder",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/architect-and-structural-engineer-dressed-in-orang-STE4HQX.jpg",
+                                                            "id": "555",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "06b1dfe"
+                                                    },
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Kevin Martin",
+                                                        "title": "Manager",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/engineer-builder-at-construction-site-PK5KQLB.jpg",
+                                                            "id": "557",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "522f169"
+                                                    },
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Sarah Albert",
+                                                        "title": "CEO",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/professional-happy-asian-female-architect-construc-NYBYTFD.jpg",
+                                                            "id": "556",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "1f509c1"
+                                                    },
+                                                    {
+                                                        "content": "I was very impresed by the company service lore ipsum is simply free text used by copy typing refreshing. Neque simply free text porro est dolorem ipsum quia.",
+                                                        "name": "Mike Hardson",
+                                                        "title": "Co Founder",
+                                                        "image": {
+                                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/architect-and-structural-engineer-dressed-in-orang-STE4HQX.jpg",
+                                                            "id": "555",
+                                                            "alt": "",
+                                                            "source": "library"
+                                                        },
+                                                        "_id": "046b234"
+                                                    }
+                                                ],
+                                                "layout": "image_above",
+                                                "slides_per_view": "3",
+                                                "slides_to_scroll": "1",
+                                                "show_arrows": "",
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": "30",
+                                                    "sizes": []
+                                                },
+                                                "slide_border_size": {
+                                                    "unit": "px",
+                                                    "top": "4",
+                                                    "right": "4",
+                                                    "bottom": "4",
+                                                    "left": "4",
+                                                    "isLinked": "1"
+                                                },
+                                                "slide_padding": {
+                                                    "unit": "px",
+                                                    "top": "30",
+                                                    "right": "30",
+                                                    "bottom": "30",
+                                                    "left": "30",
+                                                    "isLinked": "1"
+                                                },
+                                                "content_gap": {
+                                                    "unit": "px",
+                                                    "size": "15",
+                                                    "sizes": []
+                                                },
+                                                "content_color": "#FFFFFF",
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": "20",
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "300",
+                                                "content_typography_font_style": "normal",
+                                                "name_typography_typography": "custom",
+                                                "name_typography_font_weight": "400",
+                                                "name_typography_text_transform": "uppercase",
+                                                "name_typography_font_style": "normal",
+                                                "name_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#F6F6F6",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": "14",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_font_weight": "300",
+                                                "title_typography_text_transform": "uppercase",
+                                                "title_typography_font_style": "normal",
+                                                "title_typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "image_size": {
+                                                    "unit": "px",
+                                                    "size": "85",
+                                                    "sizes": []
+                                                },
+                                                "image_border": "yes",
+                                                "image_border_width": {
+                                                    "unit": "px",
+                                                    "size": "4",
+                                                    "sizes": []
+                                                },
+                                                "image_border_radius": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "pagination_size": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "slide_background_color": "globals\/colors?id=primary",
+                                                    "slide_border_color": "globals\/colors?id=secondary",
+                                                    "name_color": "globals\/colors?id=secondary",
+                                                    "image_border_color": "globals\/colors?id=secondary",
+                                                    "pagination_color": "globals\/colors?id=accent"
+                                                },
+                                                "slides_per_view_tablet": "2",
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "testimonial-carousel",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

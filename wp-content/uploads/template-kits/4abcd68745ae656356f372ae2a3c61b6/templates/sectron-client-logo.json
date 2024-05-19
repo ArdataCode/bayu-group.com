@@ -1,0 +1,253 @@
+{
+    "version": "0.4",
+    "title": "Sectron &#8211; Client Logo",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-clients",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "282761da",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=secondary"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "1f24088f",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "53b96f55",
+                            "settings": {
+                                "ekit_client_logo_repiter": [
+                                    {
+                                        "ekit_client_logo_list_title": "Client logo",
+                                        "_id": "8ab31e0",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-38.png",
+                                            "id": "545",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_website_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        }
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Client logo",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-37.png",
+                                            "id": "544",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_website_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "7898d76"
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Client logo",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-31.png",
+                                            "id": "543",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_website_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "c792d78"
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Client logo",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-23.png",
+                                            "id": "542",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_website_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "cd14282"
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Client logo",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-22.png",
+                                            "id": "541",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_website_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "1e9f216"
+                                    },
+                                    {
+                                        "ekit_client_logo_list_title": "Client logo",
+                                        "ekit_client_logo_image_normal": {
+                                            "url": "http:\/\/tkpro-demos.envalab.com\/03\/wp-content\/uploads\/sites\/11\/2021\/08\/logoipsum-logo-4.png",
+                                            "id": "540",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "ekit_client_logo_website_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "_id": "0fde44e"
+                                    }
+                                ],
+                                "ekit_client_logo_top_bottom_spacing": {
+                                    "unit": "px",
+                                    "size": "0",
+                                    "sizes": []
+                                },
+                                "ekit_client_logo_slidetosho": {
+                                    "unit": "px",
+                                    "size": "5",
+                                    "sizes": []
+                                },
+                                "ekit_client_logo_loop": "yes",
+                                "ekit_client_logo_rows": "1",
+                                "ekit_client_logo_container_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "ekit_client_logo_container_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "ekit_client_logo_container_min_height": {
+                                    "unit": "px",
+                                    "size": "80",
+                                    "sizes": []
+                                },
+                                "ekit_client_logo_client_logo_background_group_background": "classic",
+                                "ekit_client_logo_client_logo_background_group_color": "#FFD32A00",
+                                "ekit_client_logo_image_style_border_radious": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "ekit_client_logo_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "ekit_client_logo_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": "1"
+                                },
+                                "ekit_client_logo_image_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_client_logo_image_box_shadow_group_box_shadow": {
+                                    "horizontal": "0",
+                                    "vertical": "0",
+                                    "blur": "0",
+                                    "spread": "0",
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "ekit_client_logo_dots_top_to_bottom": {
+                                    "unit": "px",
+                                    "size": "15",
+                                    "sizes": []
+                                },
+                                "ekit_client_logo_dot_background_background": "classic",
+                                "ekit_client_logo_dot_active_background_background": "classic",
+                                "__globals__": {
+                                    "ekit_client_logo_client_logo_background_group_color": "",
+                                    "ekit_client_logo_dot_background_color": "globals\/colors?id=7943454",
+                                    "ekit_client_logo_dot_active_background_color": "globals\/colors?id=primary"
+                                },
+                                "ekit_client_logo_slidetosho_tablet": {
+                                    "unit": "px",
+                                    "size": "4",
+                                    "sizes": []
+                                },
+                                "ekit_client_logo_slidetosho_mobile": {
+                                    "unit": "px",
+                                    "size": "2",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-client-logo",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

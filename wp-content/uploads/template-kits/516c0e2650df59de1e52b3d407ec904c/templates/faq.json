@@ -1,0 +1,497 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "5663daad",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "background_color": "#1E2228",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_image": {
+                    "url": "https:\/\/templatekit.kulokale.com\/raventor\/wp-content\/uploads\/sites\/3\/2021\/01\/top-section-1.jpg",
+                    "id": 1196
+                },
+                "background_position": "center center",
+                "background_attachment": "scroll",
+                "background_size": "cover",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#1E2228",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "overlay_blend_mode": "multiply",
+                "__globals__": {
+                    "background_overlay_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "5cf0c693",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 60
+                    },
+                    "elements": [
+                        {
+                            "id": "40090595",
+                            "settings": {
+                                "title": "FAQ",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=8d00963"
+                                },
+                                "title_color": "#FFFFFF",
+                                "header_size": "h3"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5486f431",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "align": "left",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2a245e60",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet consectetur elit<\/p>",
+                                "text_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "66a65c5b",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3be994cb",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "10",
+                    "bottom": "100",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6731ae3f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "2cafa74d",
+                            "settings": {
+                                "title": "FREQUENTLY ASK QUESTIONS",
+                                "title_color": "#F27507",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=5e96bdb",
+                                    "title_color": ""
+                                },
+                                "header_size": "h6"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5658aee",
+                            "settings": {
+                                "title": "General Questions",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=secondary",
+                                    "title_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7495374a",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "29b76b9c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1e538fba",
+                                            "settings": {
+                                                "eael_adv_accordion_tab": [
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "_id": "ae6de98",
+                                                        "eael_adv_accordion_tab_default_active": "yes",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>"
+                                                    },
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "eael_adv_accordion_tab_default_active": "",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>",
+                                                        "_id": "2298201"
+                                                    },
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "eael_adv_accordion_tab_default_active": "",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>",
+                                                        "_id": "8c32585"
+                                                    },
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "eael_adv_accordion_tab_default_active": "",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>",
+                                                        "_id": "5b13d40"
+                                                    }
+                                                ],
+                                                "eael_adv_accordion_padding": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "eael_adv_accordion_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "eael_adv_accordion_tab_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_icon_gap": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_distance": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_color_active": "#1E2228",
+                                                "eael_adv_accordion_tab_text_color_active": "#FFFFFF",
+                                                "adv_accordion_content_text_color": "#6E6D7A",
+                                                "eael_adv_accordion_content_typography_typography": "custom",
+                                                "eael_adv_accordion_content_typography_font_family": "Montserrat",
+                                                "eael_adv_accordion_content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_content_typography_font_weight": "400",
+                                                "eael_adv_accordion_content_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_toggle_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eael_adv_accordion_tab_title_typography_typography": "",
+                                                    "eael_adv_accordion_content_typography_typography": "",
+                                                    "adv_accordion_content_text_color": "globals\/colors?id=text",
+                                                    "eael_adv_accordion_tab_color_active": "globals\/colors?id=primary",
+                                                    "eael_adv_accordion_tab_text_color_active": "",
+                                                    "eael_adv_accordion_tab_color_hover": "globals\/colors?id=primary",
+                                                    "eael_adv_tabs_tab_toggle_color": "globals\/colors?id=primary",
+                                                    "eael_adv_tabs_tab_toggle_active_color": "globals\/colors?id=secondary"
+                                                },
+                                                "eael_adv_accordion_title_tag": "div",
+                                                "eael_adv_accordion_tab_color_hover": "#1E2228",
+                                                "eael_adv_tabs_tab_toggle_color": "#1E2228",
+                                                "eael_adv_tabs_tab_toggle_active_color": "#F27507"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-adv-accordion",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "75cf0e1",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "62ae4c48",
+                                            "settings": {
+                                                "eael_adv_accordion_tab": [
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "_id": "ae6de98",
+                                                        "eael_adv_accordion_tab_default_active": "yes",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>"
+                                                    },
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "eael_adv_accordion_tab_default_active": "",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>",
+                                                        "_id": "2298201"
+                                                    },
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "eael_adv_accordion_tab_default_active": "",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>",
+                                                        "_id": "8c32585"
+                                                    },
+                                                    {
+                                                        "eael_adv_accordion_tab_title": "Consectetur adipisicing elit?",
+                                                        "eael_adv_accordion_tab_default_active": "",
+                                                        "eael_adv_accordion_tab_title_icon_new": {
+                                                            "value": "",
+                                                            "library": ""
+                                                        },
+                                                        "eael_adv_accordion_tab_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis ipsam quae eligendi minus, maiores vitae quo animi. Neque sit voluptatibus recusandae dolorum laboriosam. Fugiat, voluptatum vel animi distinctio cupiditate magni quis amet natus eveniet incidunt quo ab soluta voluptas id dolor ducimus.<\/p>",
+                                                        "_id": "5b13d40"
+                                                    }
+                                                ],
+                                                "eael_adv_accordion_padding": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "eael_adv_accordion_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                },
+                                                "eael_adv_accordion_tab_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 10,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_icon_gap": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_distance": {
+                                                    "unit": "px",
+                                                    "size": 20,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_color_active": "#1E2228",
+                                                "eael_adv_accordion_tab_text_color_active": "#FFFFFF",
+                                                "adv_accordion_content_text_color": "#6E6D7A",
+                                                "eael_adv_accordion_content_typography_typography": "custom",
+                                                "eael_adv_accordion_content_typography_font_family": "Montserrat",
+                                                "eael_adv_accordion_content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_content_typography_font_weight": "400",
+                                                "eael_adv_accordion_content_typography_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.7,
+                                                    "sizes": []
+                                                },
+                                                "eael_adv_accordion_tab_toggle_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "eael_adv_accordion_tab_title_typography_typography": "",
+                                                    "eael_adv_accordion_content_typography_typography": "",
+                                                    "adv_accordion_content_text_color": "globals\/colors?id=text",
+                                                    "eael_adv_accordion_tab_color_active": "globals\/colors?id=primary",
+                                                    "eael_adv_accordion_tab_text_color_active": "",
+                                                    "eael_adv_accordion_tab_color_hover": "globals\/colors?id=primary",
+                                                    "eael_adv_tabs_tab_toggle_color": "globals\/colors?id=primary",
+                                                    "eael_adv_tabs_tab_toggle_active_color": "globals\/colors?id=secondary"
+                                                },
+                                                "eael_adv_accordion_title_tag": "div",
+                                                "eael_adv_accordion_tab_color_hover": "#1E2228",
+                                                "eael_adv_tabs_tab_toggle_color": "#1E2228",
+                                                "eael_adv_tabs_tab_toggle_active_color": "#F27507"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "eael-adv-accordion",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents"
+    }
+}

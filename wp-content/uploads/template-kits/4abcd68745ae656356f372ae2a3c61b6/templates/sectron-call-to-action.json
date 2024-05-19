@@ -1,0 +1,111 @@
+{
+    "version": "0.4",
+    "title": "Sectron &#8211; Call to Action",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-cta",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "3c59ff57",
+            "settings": {
+                "gap": "no",
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=secondary"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "15",
+                    "bottom": "50",
+                    "left": "15",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "3b85515a",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "65",
+                        "content_position": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": "600"
+                    },
+                    "elements": [
+                        {
+                            "id": "5e71fd1e",
+                            "settings": {
+                                "title": "Quality, Affordable, Manufacturing\nand industrial Services",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "791a6a80",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "34.906",
+                        "content_position": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": "750"
+                    },
+                    "elements": [
+                        {
+                            "id": "11dd0bb6",
+                            "settings": {
+                                "text": "Discover More",
+                                "align": "right",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=primary",
+                                    "button_text_color": "globals\/colors?id=secondary"
+                                },
+                                "align_mobile": "justify",
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_canvas"
+    }
+}

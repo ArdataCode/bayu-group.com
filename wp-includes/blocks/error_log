@@ -1,0 +1,12 @@
+[28-Jan-2024 13:32:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/bayu-group.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/blocks/index.php on line 8
+[14-Feb-2024 01:56:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/bayu-group.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/blocks/index.php on line 8
+[13-May-2024 09:36:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/landingu/bayu-group.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/bayu-group.com/wp-includes/blocks/index.php on line 8
